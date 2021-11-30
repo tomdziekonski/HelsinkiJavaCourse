@@ -1,0 +1,1 @@
+[{"className":"RemoveLastTest","methodName":"test","pointNames":["03-17"],"status":"PASSED"},{"className":"RemoveLastTest","methodName":"test2","pointNames":["03-17"],"status":"PASSED"},{"className":"RemoveLastTest","methodName":"test3","pointNames":["03-17"],"status":"PASSED"}]
